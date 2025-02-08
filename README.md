@@ -1,4 +1,5 @@
 # Welcome to My Data Science Projects Portfolio!
+![Image](https://github.com/user-attachments/assets/78f722bb-5022-4426-a734-459c997b1854)
 
 This repository highlights my exploration of Data Science, featuring projects that utilize machine learning, statistical modeling, and data-driven techniques to solve real-world problems. Each project demonstrates my ability to extract insights, build predictive models, and optimize decision-making processes.
 
