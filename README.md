@@ -17,8 +17,7 @@ This repository highlights my exploration of Data Science, featuring projects th
 
 ## 🔹 Tools:
 - Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch)  
-- SQL  
-- R  
+- SQL   
 - Power BI & Tableau  
 
 Feel free to explore, contribute, or provide feedback! 🚀
