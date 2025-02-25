@@ -11,3 +11,11 @@ This project performs an exploratory data analysis (EDA) on the Zomato dataset t
  - What are the most popular cuisines in the dataset?
  - Are there any missing values, and how do they impact the dataset?
  - What relationships exist between features such as location, ratings, and cuisine types?
+
+1. Which countries have the highest number of Zomato transactions?
+2. How are restaurants rated across different rating categories?
+3. What is the distribution of restaurants with and without ratings?
+4. Which cities have the highest number of transactions?
+5. What are the most popular cuisines in the dataset?
+6. Are there any missing values, and how do they impact the dataset?
+7. What relationships exist between features such as location, ratings, and cuisine types?
