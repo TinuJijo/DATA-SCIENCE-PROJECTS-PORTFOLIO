@@ -52,11 +52,13 @@ This project performs an exploratory data analysis (EDA) on the Zomato dataset t
 ![image](https://github.com/user-attachments/assets/933a84fd-2901-4699-b7f4-0828997ca0fd)
 
 
-**4. Which cities have the highest number of transactions?**
+**7. Which cities have the highest number of transactions?**
 
+![Image](https://github.com/user-attachments/assets/e9549826-be90-4c4d-a4d5-72088e011cba)
 
+**Insights:** Highest number of transactions are in New Delhi
 
-**5. What are the most popular cuisines in the dataset?**
+**8. What are the most popular cuisines in the dataset?**
 
 
 
