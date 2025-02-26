@@ -16,7 +16,7 @@ This project performs an exploratory data analysis (EDA) on the Zomato dataset t
 
 1. Which are the top three countries where Zomato is most widely used?
    
-![Image](https://github.com/user-attachments/assets/b32fd8f9-9430-4326-b174-6240dc303766)
+![Image](https://github.com/user-attachments/assets/730c45c7-fa41-4258-afbe-41a59d3c9ace)
 
 2. How are restaurants rated across different rating categories?
 
