@@ -31,7 +31,11 @@ This project performs an exploratory data analysis (EDA) on the Zomato dataset t
    
 **3. What is the distribution of restaurants with and without ratings?**
 
+![Image](https://github.com/user-attachments/assets/199767e6-e685-4d57-be62-ba69b811ac6c)
 
+**Insights:**
+1. Not rated has the highest count
+2. Highest number of ratings are between 2.5 to 3.4
 
 **4. Which cities have the highest number of transactions?**
 
