@@ -14,7 +14,7 @@ This project performs an exploratory data analysis (EDA) on the Zomato dataset t
 
 ## Solutions
 
-1. Which are the top three countries where Zomato is most widely used?
+1. <span style="color:blue;">Which are the top three countries where Zomato is most widely used?This text will be blue.</span>
    
 ![Image](https://github.com/user-attachments/assets/730c45c7-fa41-4258-afbe-41a59d3c9ace)
 
