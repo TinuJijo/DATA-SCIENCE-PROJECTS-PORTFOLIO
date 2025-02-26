@@ -47,6 +47,11 @@ This project performs an exploratory data analysis (EDA) on the Zomato dataset t
 
 ![Image](https://github.com/user-attachments/assets/860e9cec-25d7-4685-b440-9b96cddb07d2)
 
+**6. Which countries offer online delivery services on Zomato?**
+
+![image](https://github.com/user-attachments/assets/933a84fd-2901-4699-b7f4-0828997ca0fd)
+
+
 **4. Which cities have the highest number of transactions?**
 
 
