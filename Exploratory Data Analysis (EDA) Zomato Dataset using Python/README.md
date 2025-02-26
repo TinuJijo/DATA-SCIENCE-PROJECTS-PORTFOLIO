@@ -39,7 +39,9 @@ This project performs an exploratory data analysis (EDA) on the Zomato dataset t
 
 **4. Which countries have given 0 ratings on Zomato?**
 
+![Image](https://github.com/user-attachments/assets/88d50f39-2754-463f-88ac-8cd9d7bb29e2)
 
+**Insights:** India has the highest number with no ratings
 
 **4. Which cities have the highest number of transactions?**
 
