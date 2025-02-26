@@ -12,6 +12,8 @@ This project performs an exploratory data analysis (EDA) on the Zomato dataset t
  - Are there any missing values, and how do they impact the dataset?
  - What relationships exist between features such as location, ratings, and cuisine types?
 
+## Solutions
+
 1. Which countries have the highest number of Zomato transactions?
    
 ![Image](https://github.com/user-attachments/assets/b32fd8f9-9430-4326-b174-6240dc303766)
