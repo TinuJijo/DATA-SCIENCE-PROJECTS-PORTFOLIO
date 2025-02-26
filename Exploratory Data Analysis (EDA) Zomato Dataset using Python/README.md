@@ -22,7 +22,12 @@ This project performs an exploratory data analysis (EDA) on the Zomato dataset t
 
 2. How are restaurants rated across different rating categories?
 
-
+**Solution:**
+1. Rating ranges from 4.5 to 4.9 indicates ----> Excellent
+2. Rating ranges from 4.0 to 4.4 indicates ----> Very Good
+3. Rating ranges from 3.5 to 3.9 indicates ----> Good
+4. Rating ranges from 2.5 to 3.4 indicates ----> Average
+5. Rating ranges from 1.8 to 2.4 indicates ----> Poor
    
 3. What is the distribution of restaurants with and without ratings?
 
