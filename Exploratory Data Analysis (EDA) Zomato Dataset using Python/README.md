@@ -43,6 +43,10 @@ This project performs an exploratory data analysis (EDA) on the Zomato dataset t
 
 **Insights:** India has the highest number with no ratings
 
+**5. What is the currency used in each country?**
+
+
+
 **4. Which cities have the highest number of transactions?**
 
 
