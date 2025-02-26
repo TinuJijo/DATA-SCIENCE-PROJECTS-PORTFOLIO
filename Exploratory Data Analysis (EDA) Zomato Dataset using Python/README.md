@@ -4,7 +4,7 @@ This project performs an exploratory data analysis (EDA) on the Zomato dataset t
 
 ## Key Questions Explored
 
- - Which countries have the highest number of Zomato transactions?
+ - Which are the top three countries where Zomato is most widely used?
  - How are restaurants rated across different rating categories?
  - What is the distribution of restaurants with and without ratings?
  - Which cities have the highest number of transactions?
@@ -14,7 +14,7 @@ This project performs an exploratory data analysis (EDA) on the Zomato dataset t
 
 ## Solutions
 
-1. Which countries have the highest number of Zomato transactions?
+1. Which are the top three countries where Zomato is most widely used?
    
 ![Image](https://github.com/user-attachments/assets/b32fd8f9-9430-4326-b174-6240dc303766)
 
