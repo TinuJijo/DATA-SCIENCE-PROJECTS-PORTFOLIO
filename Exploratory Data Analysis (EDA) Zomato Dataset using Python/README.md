@@ -14,13 +14,13 @@ This project performs an exploratory data analysis (EDA) on the Zomato dataset t
 
 ## Solutions
 
-1. <span style="color:blue;">Which are the top three countries where Zomato is most widely used?</span>
+**1. Which are the top three countries where Zomato is most widely used?**
    
 ![Image](https://github.com/user-attachments/assets/730c45c7-fa41-4258-afbe-41a59d3c9ace)
 
 **Solution:** Highest number of transactions are recorded in India followed by United States and United Kingdom
 
-2. How are restaurants rated across different rating categories?
+**2. How are restaurants rated across different rating categories?**
 
 **Solution:**
 1. Rating ranges from 4.5 to 4.9 indicates ----> Excellent
@@ -29,15 +29,15 @@ This project performs an exploratory data analysis (EDA) on the Zomato dataset t
 4. Rating ranges from 2.5 to 3.4 indicates ----> Average
 5. Rating ranges from 1.8 to 2.4 indicates ----> Poor
    
-3. What is the distribution of restaurants with and without ratings?
+**3. What is the distribution of restaurants with and without ratings?**
 
 
 
-4. Which cities have the highest number of transactions?
+**4. Which cities have the highest number of transactions?**
 
 
 
-5. What are the most popular cuisines in the dataset?
+**5. What are the most popular cuisines in the dataset?**
 
 
 
