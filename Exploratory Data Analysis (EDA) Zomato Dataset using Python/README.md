@@ -37,6 +37,10 @@ This project performs an exploratory data analysis (EDA) on the Zomato dataset t
 1. Not rated has the highest count
 2. Highest number of ratings are between 2.5 to 3.4
 
+**4. Which countries have given 0 ratings on Zomato?**
+
+
+
 **4. Which cities have the highest number of transactions?**
 
 
