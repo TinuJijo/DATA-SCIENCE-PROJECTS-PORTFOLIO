@@ -45,7 +45,7 @@ This project performs an exploratory data analysis (EDA) on the Zomato dataset t
 
 **5. What is the currency used in each country?**
 
-
+![Image](https://github.com/user-attachments/assets/860e9cec-25d7-4685-b440-9b96cddb07d2)
 
 **4. Which cities have the highest number of transactions?**
 
