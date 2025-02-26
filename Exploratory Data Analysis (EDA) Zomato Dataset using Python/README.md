@@ -7,10 +7,12 @@ This project performs an exploratory data analysis (EDA) on the Zomato dataset t
  - Which are the top three countries where Zomato is most widely used?
  - How are restaurants rated across different rating categories?
  - What is the distribution of restaurants with and without ratings?
+ - Which countries have given 0 ratings on Zomato?
+ - What is the currency used in each country?
+ - Which countries offer online delivery services on Zomato?
  - Which cities have the highest number of transactions?
  - What are the most popular cuisines in the dataset?
- - Are there any missing values, and how do they impact the dataset?
- - What relationships exist between features such as location, ratings, and cuisine types?
+ 
 
 ## Solutions
 
@@ -60,7 +62,11 @@ This project performs an exploratory data analysis (EDA) on the Zomato dataset t
 
 **8. What are the most popular cuisines in the dataset?**
 
+![Image](https://github.com/user-attachments/assets/6e723e9c-cace-4efb-a27d-bf161363e2f1)
 
+**Insights:** North Indian is the most famous cuisine
 
-6. Are there any missing values, and how do they impact the dataset?
-7. What relationships exist between features such as location, ratings, and cuisine types?
+## Summary
+
+This exploratory analysis provides valuable insights into restaurant ratings, geographic trends, and cuisine preferences on Zomato. The findings can be leveraged by restaurant owners, food delivery platforms, and market analysts to enhance business strategies, target customer preferences, and improve overall user satisfaction. Future work can include predictive modeling for rating estimation and customer behavior analysis based on additional features.
+
