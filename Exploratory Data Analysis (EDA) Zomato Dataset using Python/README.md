@@ -18,6 +18,8 @@ This project performs an exploratory data analysis (EDA) on the Zomato dataset t
    
 ![Image](https://github.com/user-attachments/assets/730c45c7-fa41-4258-afbe-41a59d3c9ace)
 
+**Solution:** Highest number of transactions are recorded in India followed by United States and United Kingdom
+
 2. How are restaurants rated across different rating categories?
 
 
